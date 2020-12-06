@@ -1,0 +1,9 @@
+libsipxtapi - SIP stack, RTP media framework and codecs
+libsipxtapi-dev - SIP stack, RTP media framework and codecs (headers)
+libsipxtapi-doc - SIP stack, RTP media framework and codecs (API documentation)
+linphone - SIP softphone - graphical client
+linphone-common - Shared components of the linphone SIP softphone
+linphone-nogtk - SIP softphone - console-only client
+roger-router - Home router management tool - GUI
+roger-router-cli - Home router management tool - command-line interface
+xul-ext-tbdialout - facilitates clicking the phone numbers in the address book

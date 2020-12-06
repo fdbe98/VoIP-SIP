@@ -1,0 +1,237 @@
+asterisk - Open Source Private Branch Exchange (PBX)
+asterisk-opus - opus module for Asterisk
+baresip - portable and modular SIP user-agent - metapackage
+baresip-core - portable and modular SIP user-agent - core parts
+baresip-ffmpeg - portable and modular SIP user-agent - FFmpeg codecs and formats
+baresip-gstreamer - portable and modular SIP user-agent - GStreamer pipelines
+baresip-gtk - portable and modular SIP user-agent - GTK+ front-end
+baresip-x11 - portable and modular SIP user-agent - X11 features
+captagent - HOMER SIP capture agent
+dlz-ldap-enum - Plug-in for bind9 that uses LDAP data to fulfill ENUM requests
+ekiga - H.323 and SIP compatible VoIP client
+ekiga-plugin-evolution - H.323 and SIP compatible VoIP client - evolution plugin
+empathy - GNOME multi-protocol chat and call client
+erlang-p1-sip - SIP library for Erlang
+fonts-seto - handwriting Japanese font including JIS X 0213 kanji
+fonts-sipa-arundina - Thai DejaVu-compatible fonts
+forensics-extra - Forensics Environment - extra console components (metapackage)
+gir1.2-nice-0.1 - ICE library (GObject introspection)
+golang-github-hashicorp-memberlist-dev - Golang package for gossip based membership and failure detection
+golang-github-hashicorp-serf-dev - Service orchestration and management tool (source)
+golang-github-weaveworks-mesh-dev - go library to build distributed systems
+golang-siphash-dev - Go implementation of SipHash-2-4
+gstreamer1.0-nice - ICE library (GStreamer plugin)
+hashcat - World's fastest and most advanced password recovery utility
+homer-api - HOMER Capture Node REST API
+homer-api-mysql - HOMER Capture Node REST API
+homer-api-postgresql - HOMER Capture Node REST API
+hydra - very fast network logon cracker
+hydra-gtk - very fast network logon cracker - GTK+ based GUI
+inadyn - Simple and small DynDNS client written in the C language
+janus - general purpose WebRTC gateway
+jscommunicator-web-phone - Basic SIP video-phone web page using WebRTC
+kamailio - very fast, dynamic and configurable SIP server
+kamailio-autheph-modules - authentication using ephemeral credentials for the Kamailio SIP server
+kamailio-berkeley-bin - Berkeley database module for Kamailio - helper program
+kamailio-berkeley-modules - Berkeley database module for the Kamailio SIP server
+kamailio-carrierroute-modules - carrierroute module for the Kamailio SIP server
+kamailio-cnxcc-modules - cnxcc modules for the Kamailio SIP server
+kamailio-cpl-modules - CPL module (CPL interpreter engine) for the Kamailio SIP server
+kamailio-erlang-modules - Erlang modules for the Kamailio SIP server
+kamailio-extra-modules - Extra modules for the Kamailio SIP Server
+kamailio-geoip-modules - geoip module for the Kamailio SIP Server
+kamailio-geoip2-modules - geoip2 module for the Kamailio SIP Server
+kamailio-ims-modules - IMS module for the Kamailio SIP server
+kamailio-json-modules - Json parser and Json-RPC modules for the Kamailio SIP server
+kamailio-kazoo-modules - kazoo modules for the Kamailio SIP server
+kamailio-ldap-modules - LDAP modules for the Kamailio SIP server
+kamailio-lua-modules - app_lua module for Kamailio Lua support
+kamailio-memcached-modules - interface to the memcached server, for the Kamailio SIP server
+kamailio-mongodb-modules - mongodb modules for the Kamailio SIP server
+kamailio-mono-modules - app_mono module for the Kamailio SIP server
+kamailio-mysql-modules - MySQL database connectivity module for Kamailio
+kamailio-outbound-modules - SIP Outbound module for the Kamailio SIP server
+kamailio-perl-modules - Perl extensions and database driver for the Kamailio SIP server
+kamailio-phonenum-modules - phonenum modules for the Kamailio SIP server
+kamailio-postgres-modules - PostgreSQL database connectivity module for the Kamailio SIP server
+kamailio-presence-modules - SIP presence modules for Kamailio
+kamailio-python-modules - app_python module for the Kamailio SIP server
+kamailio-rabbitmq-modules - RabbitMQ and AMQP integration modules for the Kamailio SIP server
+kamailio-radius-modules - RADIUS modules for the Kamailio SIP server
+kamailio-redis-modules - Redis database connectivity module for the Kamailio SIP server
+kamailio-sctp-modules - SCTP SIP transport module for the Kamailio SIP server
+kamailio-snmpstats-modules - SNMP AgentX subagent module for the Kamailio SIP server
+kamailio-sqlite-modules - SQLite database connectivity module for the Kamailio SIP server
+kamailio-systemd-modules - systemd logging modules for the Kamailio SIP server
+kamailio-tls-modules - TLS support for the Kamailio SIP server (authentication, transport)
+kamailio-unixodbc-modules - unixODBC database connectivity module for the Kamailio SIP server
+kamailio-utils-modules - Utility functions for the Kamailio SIP server
+kamailio-websocket-modules - WebSocket module for the Kamailio SIP server
+kamailio-xml-modules - XML based extensions for Kamailio's Management Interface
+kamailio-xmpp-modules - XMPP gateway module for the Kamailio SIP server
+kde-telepathy-call-ui - KDE Telepathy UI for audio/video calls
+khard - address book for the Linux console
+latex-fonts-sipa-arundina - Thai DejaVu-compatible fonts for LaTeX
+libbasicusageenvironment1 - multimedia RTSP streaming library (BasicUsageEnvironment class)
+libbellesip-dev - SIP stack from the Linphone team (development files)
+libbellesip0 - SIP stack from the Linphone team
+libexosip2-11 - eXtended osip library
+libexosip2-dev - eXtended osip library development files
+libgossip-java - Small and fast logging provider for SLF4J
+libgroupsock8 - multimedia RTSP streaming library (network interfaces and sockets)
+libjs-jscommunicator - Browser-based messaging, phone and video chat application
+libjs-jssip - JavaScript implementation of a WebRTC SIP video phone
+libjs-jssip-bundle - JavaScript implementation of a WebRTC SIP video phone
+liblinphone-dev - Linphone web phone's library - development files
+liblinphone5 - Linphone's shared library part (supporting the SIP protocol)
+liblivemedia-dev - multimedia RTSP streaming library (development files)
+liblivemedia62 - multimedia RTSP streaming library
+libmediastreamer-base3 - Linphone web phone's media library
+libmediastreamer-dev - Linphone web phone's media library - development files
+libnet-sip-perl - framework for SIP modules
+libnice-dev - ICE library (development files)
+libnice-doc - ICE library (documentation)
+libnice10 - ICE library (shared library)
+libopal-dbg - OPAL library debug symbols
+libopal-dev - OPAL library header files
+libopal-doc - OPAL library documentation files
+libopal3.10.10 - Open Phone Abstraction Library - successor of OpenH323
+libosip2-11 - Session Initiation Protocol (SIP) library
+libosip2-dev - development files for the SIP library
+libpj2 - PJ Project - PJProject core libraries
+libpjlib-util2 - PJ Project - helper utilities
+libpjmedia-audiodev2 - PJ Project - Audio devices
+libpjmedia-codec2 - PJ Project - Multimedia codecs handling
+libpjmedia-videodev2 - SIP handling library - video devices
+libpjmedia2 - PJ Project - VoIP media
+libpjnath2 - PJ Project - NAT handling
+libpjproject-dev - PJ Project - development headers
+libpjsip-simple2 - PJ Project - SIP SIMPLE instant messaging
+libpjsip-ua2 - SIP handling library - SIP user agent library
+libpjsip2 - PJ Project - SIP handling library
+libpjsua2 - PJ Project - Basic VoIP client library
+libpjsua2-2v5 - PJ Project - Basic VoIP client library
+libre-dev - Generic library for real-time communications (development files)
+libre0 - Generic library for real-time communications with async IO support
+librecon-1.11 - reSIProcate conversation manager - shared libraries
+librecon-1.11-dev - reSIProcate conversation manager - development files
+libresiprocate-1.11 - reSIProcate SIP stack - shared libraries
+libresiprocate-1.11-dev - reSIProcate SIP stack - development files
+libresiprocate-turn-client-1.11 - reSIProcate TURN client (reTurn) - shared libraries
+libresiprocate-turn-client-1.11-dev - reSIProcate TURN client (reTurn) - development files
+libsip-api-java - SIP API for Java
+libsipwitch-dev - secure peer-to-peer SIP VoIP server - development files
+libsipwitch1 - secure peer-to-peer SIP VoIP server - shared libraries
+libsipwitch1-dbg - secure peer-to-peer SIP VoIP server - debug symbols
+libsipxtapi - SIP stack, RTP media framework and codecs
+libsipxtapi-dev - SIP stack, RTP media framework and codecs (headers)
+libsipxtapi-doc - SIP stack, RTP media framework and codecs (API documentation)
+libsofia-sip-ua-dev - Sofia-SIP library development files
+libsofia-sip-ua-glib-dev - Sofia-SIP library glib/gobject interface development files
+libsofia-sip-ua-glib3 - Sofia-SIP library glib/gobject interfaces runtime
+libsofia-sip-ua0 - Sofia-SIP library runtime
+libstorj-dev - C library for file transfer on Storj network (Development files)
+libstorj0 - Asynchronous C library for file transfer on the Storj network
+libusageenvironment3 - multimedia RTSP streaming library (UsageEnvironment classes)
+linphone - SIP softphone - graphical client
+linphone-common - Shared components of the linphone SIP softphone
+linphone-dbg - Debugging symbols for linphone
+linphone-nogtk - SIP softphone - console-only client
+livemedia-utils - multimedia RTSP streaming tools
+luksipc - LUKS in-place conversion tool
+node-jssip - JavaScript implementation of a WebRTC SIP video phone
+node-mississippi - collection of useful streams
+opensips - very fast and configurable SIP server
+opensips-b2bua-module - B2B User Agent modules for OpenSIPS
+opensips-berkeley-bin - Berkeley Database module for OpenSIPS - helper program
+opensips-berkeley-module - Berkeley Database module for OpenSIPS
+opensips-carrierroute-module - Carrierroute module for OpenSIPS
+opensips-compression-module - Headers and body compression module for OpenSIPS
+opensips-console - Generic tool for OpenSIPS provisioning
+opensips-cpl-module - CPL module (CPL interpreter engine) for OpenSIPS
+opensips-dbg - very fast and configurable SIP server [debug symbols]
+opensips-dbhttp-module - HTTP database connectivity module for OpenSIPS
+opensips-dialplan-module - Generic string translation module for OpenSIPS
+opensips-emergency-module - Emerrgency call module for OpenSIPS
+opensips-geoip-module - IP address-to-location looku (MaxMind GeoIP API) for OpenSIPS
+opensips-http-modules - HTTP transport layer and Management Interface for OpenSIPS
+opensips-identity-module - SIP Identity module for OpenSIPS
+opensips-jabber-module - Jabber gateway module for OpenSIPS
+opensips-json-module - Support for JSON handling in OpenSIPS script
+opensips-ldap-modules - LDAP modules for OpenSIPS
+opensips-lua-module - LUA extensions for OpenSIPS
+opensips-memcached-module - Interface module to interact with a memcached server
+opensips-mysql-module - MySQL database connectivity module for OpenSIPS
+opensips-perl-modules - Perl extensions and database driver for OpenSIPS
+opensips-postgres-module - PostgreSQL database connectivity module for OpenSIPS
+opensips-presence-modules - SIMPLE presence modules for OpenSIPS
+opensips-rabbitmq-module - Interface module to interact with a RabbitMQ server
+opensips-radius-modules - Radius modules for OpenSIPS
+opensips-redis-module - Interface module to interact with a Redis server
+opensips-regex-module - PCRE regexp modules for OpenSIPS
+opensips-restclient-module - REST client module for OpenSIPS
+opensips-sctp-module - SCTP transport module for OpenSIPS
+opensips-snmpstats-module - SNMP AgentX subagent module for OpenSIPS
+opensips-sqlite-module - SQLite database connectivity module for OpenSIPS
+opensips-tls-module - TLS transport module for OpenSIPS
+opensips-tlsmgm-module - TLS management module for OpenSIPS
+opensips-unixodbc-module - unixODBC database connectivity module for OpenSIPS
+opensips-wss-module - WebSocket Secure (WSS) transport module for OpenSIPS
+opensips-xmlrpc-module - XMLRPC support for OpenSIPS's Management Interface
+opensips-xmpp-module - XMPP gateway module for OpenSIPS
+ostinato - Packet/Traffic Generator and Analyzer
+pidgin-sipe - Pidgin plugin for Skype for Business and Microsoft Lync
+pyqt4.qsci-dev - Development files for Python Qscintilla2 (Qt4)
+pyqt5-dev - Development files for PyQt5
+pyqt5.qsci-dev - Development files for Python Qscintilla2 (Qt5)
+python-cyclone - web server framework for Python Twisted using the Tornado API
+python-pjproject - PJ Project - Python bindings
+python-qt-binding - Robot OS Python bindings for QT
+python-qt4-dev - Development files for PyQt4
+python-sip - Python/C++ bindings generator runtime library
+python-sip-dbg - Python/C++ bindings generator runtime library (debug extension)
+python-sip-dev - Python/C++ bindings generator development files
+python-sip-doc - Python/C++ bindings generator documentation
+python-socks - Python 2 SOCKS client module
+python-socksipychain - Python SOCKS/HTTP/SSL chaining proxy module
+python-stdnum - Python module to handle standardized numbers and codes
+python3-sip - Python 3/C++ bindings generator runtime library
+python3-sip-dbg - Python 3/C++ bindings generator runtime library (debug extension)
+python3-sip-dev - Python 3/C++ bindings generator development files
+python3-socks - Python 3 SOCKS client module
+python3-stdnum - Python module to handle standardized numbers and codes (Python3 version)
+reconserver - lightweight SIP conferencing service
+registration-agent - SIP registration agent
+repro - reSIProcate SIP stack - lightweight SIP proxy daemon
+resiprocate-turn-server - reSIProcate SIP stack - ICE/TURN server
+resiprocate-turn-server-psql - reSIProcate SIP stack - ICE/TURN server
+rtpproxy - Relay for Real-time Transport Protocol (RTP) media streams
+serf - Service orchestration and management tool
+simpleopal - Simple example from the OPAL project
+sip-dev - Python/C++ bindings generator code generator application
+sip-tester - Performance testing tool for the SIP protocol
+sipcalc - Advanced console-based ip subnet calculator
+sipcrack - SIP login dumper/cracker
+sipdialer - reSIProcate SIP stack - click-to-call utility
+sipgrep - command line tool to sniff, capture, display SIP messages
+siproxd - SIP proxy/redirect/registrar
+sipsak - SIP Swiss army knife
+sipwitch - secure peer-to-peer VoIP server for the SIP protocol
+sipwitch-cgi - secure peer-to-peer SIP VoIP server - CGI XML-RPC interface
+sngrep - Ncurses SIP Messages flow viewer
+sofia-sip-bin - Sofia-SIP library utilities
+sofia-sip-doc - Sofia-SIP library documentation
+sugarplum - automated and intelligent spam trap/cache-poisoner
+telepathy-rakia - SIP connection manager for the Telepathy framework
+telepathy-resiprocate - SIP Connection Manager for Telepathy Framework
+telepathy-sofiasip - Transitional package for telepathy-rakia
+tipa - system for processing phonetic symbols in LaTeX
+tipa-doc - documentation for the TIPA LaTeX font
+turnserver - server for ICE/STUN/TURN, NAT traversal for SIP and Jabber
+twinkle - Voice over Internet Protocol (VoIP) SIP Phone (GUI)
+twinkle-common - Voice over Internet Protocol (VoIP) SIP Phone (common files)
+twinkle-console - Voice over Internet Protocol (VoIP) SIP Phone (console)
+udns-utils - Several DNS-related utilities built on top of udns library
+xfonts-tipa - X11 PostScript Type 1 font for the Phonetic Alphabet
+xul-ext-tbdialout - facilitates clicking the phone numbers in the address book
+ttf-xfree86-nonfree-syriac - non-free syriac OpenType fonts from XFree86

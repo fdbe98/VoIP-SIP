@@ -1,0 +1,61 @@
+libspeex-dev - The Speex codec library development files
+libspeex1 - The Speex codec runtime library
+libspeexdsp-dev - The Speex extended library development files
+libspeexdsp1 - The Speex extended runtime library
+speex-doc - Documentation for speex
+captagent - HOMER SIP capture agent
+coturn - TURN and STUN server for VoIP
+ekiga - H.323 and SIP compatible VoIP client
+ekiga-plugin-evolution - H.323 and SIP compatible VoIP client - evolution plugin
+gsutil - configure and manage Grandstream BudgeTone 100 VOIP and GX2000 phones
+homer-api - HOMER Capture Node REST API
+homer-api-mysql - HOMER Capture Node REST API
+homer-api-postgresql - HOMER Capture Node REST API
+libexosip2-11 - eXtended osip library
+libexosip2-dev - eXtended osip library development files
+libh323-1.24.0v5 - H.323 aka VoIP library
+libh323-dbg - H.323 aka VoIP library development debug files
+libh323plus-dev - H.323 aka VoIP library development files
+libjs-sdp-transform - JavaScript parser/writer for Session Description Protocol
+libnetsds-perl - Service Delivery Suite framework
+libopal-dbg - OPAL library debug symbols
+libopal-dev - OPAL library header files
+libopal-doc - OPAL library documentation files
+libopal3.10.10 - Open Phone Abstraction Library - successor of OpenH323
+libpjmedia2 - PJ Project - VoIP media
+libpjsua2 - PJ Project - Basic VoIP client library
+libpjsua2-2v5 - PJ Project - Basic VoIP client library
+libresiprocate-turn-client-1.11 - reSIProcate TURN client (reTurn) - shared libraries
+libsipwitch-dev - secure peer-to-peer SIP VoIP server - development files
+libsipwitch1 - secure peer-to-peer SIP VoIP server - shared libraries
+libsipwitch1-dbg - secure peer-to-peer SIP VoIP server - debug symbols
+libsofia-sip-ua-dev - Sofia-SIP library development files
+libsofia-sip-ua-glib-dev - Sofia-SIP library glib/gobject interface development files
+libsofia-sip-ua-glib3 - Sofia-SIP library glib/gobject interfaces runtime
+libsofia-sip-ua0 - Sofia-SIP library runtime
+libspeex-ocaml - OCaml interface to the speex library
+libspeex-ocaml-dev - OCaml interface to the speex library
+libtgvoip-dev - VoIP library for Telegram clients - developer files
+libtgvoip1.0.3 - VoIP library for Telegram clients
+mangler - Ventrilo compatible client for Linux
+matrix-synapse - Matrix reference homeserver
+matrix-synapse-ldap3 - LDAP auth provider for the Matrix homeserver
+mumble - Low latency encrypted VoIP client
+mumble-server - Low latency encrypted VoIP server
+mz - versatile packet creation and network traffic generation tool
+node-rtcninja - JavaScript parser/writer for Session Description Protocol
+node-sdp-transform - JavaScript parser/writer for Session Description Protocol
+resiprocate-turn-server - reSIProcate SIP stack - ICE/TURN server
+resiprocate-turn-server-psql - reSIProcate SIP stack - ICE/TURN server
+simpleopal - Simple example from the OPAL project
+sip-tester - Performance testing tool for the SIP protocol
+sipwitch - secure peer-to-peer VoIP server for the SIP protocol
+sipwitch-cgi - secure peer-to-peer SIP VoIP server - CGI XML-RPC interface
+sofia-sip-bin - Sofia-SIP library utilities
+sofia-sip-doc - Sofia-SIP library documentation
+speex - The Speex codec command line tools
+turnserver - server for ICE/STUN/TURN, NAT traversal for SIP and Jabber
+twinkle - Voice over Internet Protocol (VoIP) SIP Phone (GUI)
+twinkle-common - Voice over Internet Protocol (VoIP) SIP Phone (common files)
+twinkle-console - Voice over Internet Protocol (VoIP) SIP Phone (console)
+asterisk-prompt-es - Spanish prompts for the Asterisk PBX

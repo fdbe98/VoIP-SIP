@@ -1,0 +1,80 @@
+debian-goodies - Small toolbox-style utilities for Debian systems
+resource-agents - Cluster Resource Agents
+asterisk - Open Source Private Branch Exchange (PBX)
+asterisk-config - Configuration files for Asterisk
+asterisk-core-sounds-en - asterisk PBX sound files - US English
+asterisk-core-sounds-en-g722 - asterisk PBX sound files - en-us/g722
+asterisk-core-sounds-en-gsm - asterisk PBX sound files - en-us/gsm
+asterisk-core-sounds-en-wav - asterisk PBX sound files - en-us/wav
+asterisk-core-sounds-es - asterisk PBX sound files - Spanish
+asterisk-core-sounds-es-g722 - asterisk PBX sound files - es-mx/g722
+asterisk-core-sounds-es-gsm - asterisk PBX sound files - es-mx/gsm
+asterisk-core-sounds-es-wav - asterisk PBX sound files - es-mx/wav
+asterisk-core-sounds-fr - asterisk PBX sound files - Canadian French
+asterisk-core-sounds-fr-g722 - asterisk PBX sound files - fr-ca/g722
+asterisk-core-sounds-fr-gsm - asterisk PBX sound files - fr-ca/gsm
+asterisk-core-sounds-fr-wav - asterisk PBX sound files - fr-ca/wav
+asterisk-core-sounds-it - asterisk PBX sound files - Italian
+asterisk-core-sounds-it-g722 - asterisk PBX sound files - it-it/g722
+asterisk-core-sounds-it-gsm - asterisk PBX sound files - it-it/gsm
+asterisk-core-sounds-it-wav - asterisk PBX sound files - it-it/wav
+asterisk-core-sounds-ru - asterisk PBX sound files - Russian
+asterisk-core-sounds-ru-g722 - asterisk PBX sound files - ru-ru/g722
+asterisk-core-sounds-ru-gsm - asterisk PBX sound files - ru-ru/gsm
+asterisk-core-sounds-ru-wav - asterisk PBX sound files - ru-ru/wav
+asterisk-dahdi - DAHDI devices support for the Asterisk PBX
+asterisk-dev - Development files for Asterisk
+asterisk-doc - Source code documentation for Asterisk
+asterisk-espeak - eSpeak module for Asterisk
+asterisk-flite - flite module for Asterisk
+asterisk-mobile - Bluetooth phone support for the Asterisk PBX
+asterisk-modules - loadable modules for the Asterisk PBX
+asterisk-moh-opsound-g722 - asterisk extra sound files - English/g722
+asterisk-moh-opsound-gsm - asterisk extra sound files - English/gsm
+asterisk-moh-opsound-wav - asterisk extra sound files - English/wav
+asterisk-mp3 - MP3 playback support for the Asterisk PBX
+asterisk-mysql - MySQL database protocol support for the Asterisk PBX
+asterisk-ooh323 - H.323 protocol support for the Asterisk PBX - ooH323c
+asterisk-opus - opus module for Asterisk
+asterisk-prompt-de - German voice prompts for the Asterisk PBX
+asterisk-prompt-es-co - Colombian Spanish voice prompts for Asterisk
+asterisk-prompt-fr-armelle - French voice prompts for Asterisk by Armelle Desjardins
+asterisk-prompt-fr-proformatique - French voice prompts for Asterisk
+asterisk-prompt-it - dummy transitional package
+asterisk-prompt-it-menardi - asterisk PBX Italian sound files
+asterisk-prompt-it-menardi-alaw - asterisk PBX Italian sound files - a-law prompts
+asterisk-prompt-it-menardi-gsm - asterisk PBX Italian sound files - gsm prompts
+asterisk-prompt-it-menardi-wav - asterisk PBX Italian sound files - wav prompts
+asterisk-tests - internal test modules of the Asterisk PBX
+asterisk-testsuite - test suite for the Asterisk PBX
+asterisk-voicemail - simple voicemail support for the Asterisk PBX
+asterisk-voicemail-imapstorage - IMAP voicemail storage support for the Asterisk PBX
+asterisk-voicemail-odbcstorage - ODBC voicemail storage support for the Asterisk PBX
+asterisk-vpb - VoiceTronix devices support for the Asterisk PBX
+asttest - test runner for the Asterisk test suite - dummy package
+braillegraph - simple histogram tool producing text dot-matrix graphs
+dahdi - utilities for using the DAHDI kernel modules
+dahdi-dkms - DAHDI telephony interface (dkms kernel driver)
+dahdi-linux - DAHDI telephony interface - Linux userspace parts
+dahdi-source - DAHDI telephony interface - source code for kernel driver
+gastman - GUI tool for Asterisk administration and monitoring
+iaxmodem - software modem with IAX2 connectivity
+libasterisk-agi-perl - Collections of Perl modules to be used with Asterisk PBX AGI
+libnetsds-perl - Service Delivery Suite framework
+libopenr2-3 - MFC/R2 (telephony) call setup library
+libsipwitch-dev - secure peer-to-peer SIP VoIP server - development files
+libsipwitch1 - secure peer-to-peer SIP VoIP server - shared libraries
+libsipwitch1-dbg - secure peer-to-peer SIP VoIP server - debug symbols
+libss7-2.0 - Signalling System 7 (ss7) library
+libss7-dev - Signalling System 7 (ss7) development files
+panoramisk - asyncio based library to play with asterisk (Python 3 binary)
+python-asterisk - Asterisk Manager API interface module for Python
+python-panoramisk-doc - asyncio based library to play with asterisk (doc)
+python-pyst - Python module for interacting with the Asterisk PBX
+python-starpy - Asterisk (AMI) protocols for Twisted Python
+python3-panoramisk - asyncio based library to play with asterisk (Python 3 library)
+ruby-ami - Ruby client library for the Asterisk Management Interface
+sipwitch - secure peer-to-peer VoIP server for the SIP protocol
+sipwitch-cgi - secure peer-to-peer SIP VoIP server - CGI XML-RPC interface
+asterisk-prompt-es - Spanish prompts for the Asterisk PBX
+dahdi-firmware-nonfree - DAHDI non-free firmware
